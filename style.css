@@ -1,0 +1,43 @@
+
+h1{
+    color:rgb(98, 179, 13);
+    text-align: center;
+    
+}
+p{
+    font-family:inherit;
+    font-style: normal;
+    color:rgb(86, 53, 10);
+    
+}
+body{
+    background-image:url(https://i.pinimg.com/736x/53/27/62/53276295bab833e8f88d710edfb3cb9e.jpg);
+    background-size:cover;
+
+}
+
+#popularmovie{
+
+    border-color: rgb(194, 235, 59);
+    border-style: inset;
+    background-color: rgb(34, 138, 136);
+}
+
+#career{
+    color:rgb(146, 190, 49)
+}
+
+.subscribe{
+
+    color:white;
+    font-style: inherit;
+}
+h2,h3{
+  color:rgb(212, 130, 21);  
+
+}
+
+#image{
+    background-position: center;
+
+}
